@@ -35,4 +35,14 @@ document.getElementById('search-btn').addEventListener('click', function (){
     
 })
 
+// document.getElementById('search-field').addEventListener('keyup', function (e){
+//     console.log(e)
+    
+//     if(e.key === 'Enter'){
+//         const searchField = document.getElementById('search-field');
+//         const searchFieldValue = searchField.value;
+//         console.log(searchFieldValue)
+//     }
+// })
+
 
